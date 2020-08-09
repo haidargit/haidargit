@@ -1,21 +1,22 @@
  
  ### Hi there, Name's Haidar - aka [Ali] 👋
 
-- 🏌🏻‍♂️ I’m currently working at PT. Xtremax Teknologi Indonesia as a Project Executive (onboarded at 2nd February 2020)
+- 🏌🏻‍♂️ I’m currently working at PT. Xtremax Teknologi Indonesia as a Project Executive (Since 2nd February 2020)
 - 💆🏻 I’m currently learning everything 🤣
 - 👯 I’d be happy to collaborate with other developers and engineers
-- 👏🏼 2020 Goals: Contribute more to Open Source projects
+- 👏🏼 2020 - 2021 Goals: Contribute more to Open Source projects!
 
 ### Connect with me:
 
 [<img align="left" alt="haidargit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haidargit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="haidargit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
-<br />
+<br /> 
 
 ### Languages, Technologies, and Tools that i currently use:
 
-<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code <br/><br/><br/>
+[<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code <br/><br/><br/>][vscode]
 <img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML5 <br/><br/><br/>
 <img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS3 <br/><br/><br/>
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript <br/><br/><br/>
@@ -45,3 +46,5 @@
 
 [instagram]: https://instagram.com/haidar_rda
 [linkedin]: https://linkedin.com/in/haidarali96
+[Facebook]: https://www.facebook.com/haidarali.eng/
+[vscode]: https://code.visualstudio.com
