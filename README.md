@@ -1,8 +1,7 @@
  
  ### Hi there, Name's Haidar - aka [Ali] 👋
 
-- 🏌🏻‍♂️ I’m currently working at PT. Xtremax Teknologi Indonesia as a Project Executive (Since 2nd February 2020)
-- 💆🏻 I’m currently learning everything 🤣
+- 🏌🏻‍♂️ I’m currently working at Bank Bukopin, Indonesia as Linux engineer and IBM OS/400 Program Analyst (Since 1st December 2020)
 - 👯 I’d be happy to collaborate with other developers and engineers
 - 👏🏼 2020 - 2021 Goals: Contribute more to Open Source projects!
 
