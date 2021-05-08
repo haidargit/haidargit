@@ -1,7 +1,7 @@
  
  ### Hi there, Name's Haidar - aka [Ali] 👋
 
-- 🏌🏻‍♂️ I’m currently working at Bank Bukopin, Indonesia as Linux engineer and IBM OS/400 Program Analyst (Since 1st December 2020)
+- 🏌🏻‍♂️ I’m currently working at Bank Bukopin, Indonesia as Software Engineer (Since 1st December 2020)
 - 👯 I’d be happy to collaborate with other developers and engineers
 - 👏🏼 2020 - 2021 Goals: Contribute more to Open Source projects!
 
@@ -25,7 +25,6 @@
 [<img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />MySQL <br/><br/><br/>][mysql]
 [<img align="left" alt="PostgreSQL" width="46px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" /> PostgreSQL <br/><br/><br/>][postgre]
 [<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />Git <br/><br/><br/>][git]
-[<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />GitHub <br/><br/><br/>][github]
 
 <br />
 <br />
@@ -45,5 +44,4 @@
 [mysql]: https://www.mysql.com
 [postgre]: https://www.postgresql.org
 [git]: https://git-scm.com
-[github]: https://github.com
 
