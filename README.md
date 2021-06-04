@@ -19,8 +19,6 @@
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML5 <br/><br/><br/>][wikiHtml]
 [<img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS3 <br/><br/><br/>][wikiCss3]
 [<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript <br/><br/><br/>][js]
-[<img align="left" alt="Angular js" width="46px" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4" />Angular <br/><br/><br/>][angular]
-[<img align="left" alt="Laravel" width="46px" src="https://avatars3.githubusercontent.com/u/958072?s=200&v=4" /> Laravel <br/><br/><br/>][lrvl]
 [<img align="left" alt="SQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL <br/><br/><br/>][wikiSql]
 [<img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />MySQL <br/><br/><br/>][mysql]
 [<img align="left" alt="PostgreSQL" width="46px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" /> PostgreSQL <br/><br/><br/>][postgre]
@@ -38,8 +36,6 @@
 [wikiHtml]: https://id.wikipedia.org/wiki/HTML5
 [wikiCss3]: https://id.wikipedia.org/wiki/CSS_3
 [js]: www.javascript.com
-[angular]: angular.io
-[lrvl]: laravel.com
 [wikiSql]: https://en.wikipedia.org/wiki/SQL
 [mysql]: https://www.mysql.com
 [postgre]: https://www.postgresql.org
