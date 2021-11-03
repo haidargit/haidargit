@@ -1,7 +1,6 @@
  
  ### Hi there, Name's Haidar - aka [Ali] 👋
 
-- 🏌🏻‍♂️ I’m currently working at Bank KB Bukopin (Indonesia) as a Software Engineer (Since 1st December 2020)
 - 👯 I’d be happy to collaborate with other developers and engineers
 - 👏🏼 2021 - 2022 Goals: Contribute more to Open Source projects!
 
