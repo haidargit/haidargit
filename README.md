@@ -10,7 +10,7 @@
 
 <br /> 
 
-### Languages, Technologies, and Tools that i currently use on my Projects & Repos:
+### Technologies and Tools that i currently use on my Project/Repos:
 
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML5 <br/><br/><br/>][wikiHtml]
 [<img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS3 <br/><br/><br/>][wikiCss3]
