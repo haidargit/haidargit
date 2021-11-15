@@ -7,8 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="haidargit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="haidargit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="haidargit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
 <br /> 
 
@@ -25,9 +23,7 @@
 
 ---
 
-[instagram]: https://instagram.com/haidar_rda
 [linkedin]: https://linkedin.com/in/haidarali96
-[Facebook]: https://www.facebook.com/haidarali.eng/
 [wikiHtml]: https://id.wikipedia.org/wiki/HTML5
 [wikiCss3]: https://id.wikipedia.org/wiki/CSS_3
 [js]: www.javascript.com
