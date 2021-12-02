@@ -12,7 +12,7 @@
 
 ### Technologies and Stack That I Currently Use on my Project/Repos:
 
-[<img align="left" alt="HTML5" width="36px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" />Java <br/><br/><br/>][Java]
+[<img align="left" alt="HTML5" width="37px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" />Java <br/><br/><br/>][Java]
 [<img align="left" alt="Python" width="46px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> Python <br/><br/><br/>][python]
 [<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript <br/><br/><br/>][js]
 [<img align="left" alt="PostgreSQL" width="46px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" /> PostgreSQL <br/><br/><br/>][postgre]
