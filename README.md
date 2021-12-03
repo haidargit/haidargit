@@ -10,8 +10,10 @@
 
 <br /> 
 
-### Technologies and Stack That I Currently Use on my Project/Repos:
+### Stack That I Currently Use on my Project/Repos:
 
+
+[<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Java <br/><br/>][aws]
 [<img align="left" alt="Java" width="36px" src="https://blog.nebrass.fr/wp-content/uploads/java-logo-300x300.png" />Java <br/><br/>][Java]
 [<img align="left" alt="Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> Python <br/><br/>][python]
 [<img align="left" alt="SpringBoot" width="36px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />Spring Boot <br/><br/>][SpringBoot]
@@ -25,6 +27,7 @@
 ---
 
 [linkedin]: https://linkedin.com/in/haidarali96
+[aws]: https://aws.amazon.com/
 [Java]: https://www.learnjavaonline.org/
 [SpringBoot]: https://spring.io/projects/spring-boot
 [postgre]: https://www.postgresql.org
