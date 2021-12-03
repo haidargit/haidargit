@@ -2,7 +2,7 @@
  ### Hi there, Name's Haidar - aka [Ali] 👋
 
 - 👯 I’d be happy to collaborate with other developers and engineers
-- 👏🏼 2022 Goals: Contribute more to Open Source projects!
+- 👏🏼 2022,2023,2024,2025,...... Goals: Contribute mMre to High Quality Open Source Projects!!
 
 ### Connect with me:
 
