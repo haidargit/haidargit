@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="haidargit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin: haidarali96](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/haidarali96/)
 
 <br /> 
 
