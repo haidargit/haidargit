@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![Linkedin: haidarali96](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/haidarali96/)
+[![Linkedin: haidarali96](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidarali96/)](https://www.linkedin.com/in/haidarali96/)
 
 <br /> 
 
