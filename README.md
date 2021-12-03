@@ -21,7 +21,6 @@
 [<img align="left" alt="Jenkins" width="36px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />Jenkins CI-CD <br/><br/>][jenkins]
 [<img align="left" alt="Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />Docker <br/><br/>][docker]
 [<img align="left" alt="Kubernetes" width="36px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />Kubernetes <br/><br/>][kubernetes]
-[<img align="left" alt="PostgreSQL" width="36px" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" /> PostgreSQL <br/><br/>][postgre]
 <br />
 
 ---
@@ -30,7 +29,6 @@
 [aws]: https://aws.amazon.com/
 [Java]: https://www.learnjavaonline.org/
 [SpringBoot]: https://spring.io/projects/spring-boot
-[postgre]: https://www.postgresql.org
 [django]: https://www.djangoproject.com/
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
