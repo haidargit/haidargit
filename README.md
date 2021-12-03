@@ -1,8 +1,7 @@
  
 ![haidargit](https://user-images.githubusercontent.com/33404432/144529103-3d8179d1-056a-4ed0-aa85-d34e9d5fac9e.gif)
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
-### Hi there, Name's Haidar - aka [Ali]![rockkett](https://user-images.githubusercontent.com/33404432/144542432-635f415f-78f7-41dc-9bbf-aa62d5fd04a5.gif)
-
+### Hi there, Name's Haidar - aka [Ali]!![rockkett](https://user-images.githubusercontent.com/33404432/144542651-71c9405b-e19b-463b-af5e-19ff9e34fe3e.gif)
 
 - 👯 I’d be happy to join and collaborate with greater community!
 - 👏🏼 2022,2023,2024,2025,...... Goals: Contribute More to High Quality Open Source Projects!!
