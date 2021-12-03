@@ -1,6 +1,6 @@
  
 ![haidargit](https://user-images.githubusercontent.com/33404432/144529103-3d8179d1-056a-4ed0-aa85-d34e9d5fac9e.gif)
-![](https://komarev.com/ghpvc/?username=haidargit&label=Profile+View)
+![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
 ### Hi there, Name's Haidar - aka [Ali] 👋
 
 - 👯 I’d be happy to collaborate with other developers and engineers
