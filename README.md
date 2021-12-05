@@ -16,7 +16,6 @@
 
 ### Stack That I Currently Use on my Project/Repos:
 [<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws]
-[<img align="left" alt="oraclecloud" width="36px" src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" />Oracle Cloud Infrastructure <br/><br/>][oraclecloud]
 [<img align="left" alt="Java" width="36px" src="https://blog.nebrass.fr/wp-content/uploads/java-logo-300x300.png" />Java <br/><br/>][Java]
 [<img align="left" alt="Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> Python <br/><br/>][python]
 [<img align="left" alt="SpringBoot" width="36px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />Spring Boot <br/><br/>][SpringBoot]
@@ -32,7 +31,6 @@
 
 [linkedin]: https://linkedin.com/in/haidarali96
 [aws]: https://aws.amazon.com/
-[oraclecloud]: https://www.oracle.com/cloud/
 [Java]: https://www.learnjavaonline.org/
 [SpringBoot]: https://spring.io/projects/spring-boot
 [django]: https://www.djangoproject.com/
