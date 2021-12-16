@@ -19,11 +19,11 @@
 [<img align="left" alt="Java" width="36px" src="https://blog.nebrass.fr/wp-content/uploads/java-logo-300x300.png" />Java <br/><br/>][Java]
 [<img align="left" alt="Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> Python <br/><br/>][python]
 [<img align="left" alt="SpringBoot" width="36px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />Spring Boot <br/><br/>][SpringBoot]
-[<img align="left" alt="Django" width="36px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />Django <br/><br/>][django]
-[<img align="left" alt="Jenkins" width="36px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />Jenkins CI-CD <br/><br/>][jenkins]
-[<img align="left" alt="Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />Docker <br/><br/>][docker]
-[<img align="left" alt="Kubernetes" width="36px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />Google Kubernetes Engine (GKE) <br/><br/>][kubernetes]
-[<img align="left" alt="NewRelic" width="36px" src="https://avatars.githubusercontent.com/u/31739?s=200&v=4" />New Relic <br/><br/>][newrelic]
+<!-- [<img align="left" alt="Django" width="36px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />Django <br/><br/>][django] -->
+<!-- [<img align="left" alt="Jenkins" width="36px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />Jenkins CI-CD <br/><br/>][jenkins] -->
+<!-- [<img align="left" alt="Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />Docker <br/><br/>][docker] -->
+<!-- [<img align="left" alt="Kubernetes" width="36px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />Google Kubernetes Engine (GKE) <br/><br/>][kubernetes] -->
+<!-- [<img align="left" alt="NewRelic" width="36px" src="https://avatars.githubusercontent.com/u/31739?s=200&v=4" />New Relic <br/><br/>][newrelic] -->
 
 <br />
 
