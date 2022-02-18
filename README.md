@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![Linkedin: haidar1](https://img.shields.io/badge/-haidarali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidar1/)](https://www.linkedin.com/in/haidar1/)
+[![Linkedin: haidar1](https://img.shields.io/badge/-haidar1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidar1/)](https://www.linkedin.com/in/haidar1/)
 
 <br /> 
 
