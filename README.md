@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![Linkedin: haidarali96](https://img.shields.io/badge/-haidarali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidarali96/)](https://www.linkedin.com/in/haidarali96/)
+[![Linkedin: haidar1](https://img.shields.io/badge/-haidarali96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidar1/)](https://www.linkedin.com/in/haidar1/)
 
 <br /> 
 
@@ -25,13 +25,12 @@
 <!-- [<img align="left" alt="Jenkins" width="36px" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" />Jenkins CI-CD <br/><br/>][jenkins] -->
 <!-- [<img align="left" alt="Docker" width="36px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />Docker <br/><br/>][docker] -->
 <!-- [<img align="left" alt="Kubernetes" width="36px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />Google Kubernetes Engine (GKE) <br/><br/>][kubernetes] -->
-<!-- [<img align="left" alt="NewRelic" width="36px" src="https://avatars.githubusercontent.com/u/31739?s=200&v=4" />New Relic <br/><br/>][newrelic] -->
 
 <br />
 
 ---
 
-[linkedin]: https://linkedin.com/in/haidarali96
+[linkedin]: https://linkedin.com/in/haidar1
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
 [Java]: https://www.learnjavaonline.org/
@@ -41,4 +40,3 @@
 [docker]: https://www.docker.com/
 [kubernetes]: https://kubernetes.io
 [python]: https://www.python.org
-[newrelic]: https://newrelic.com/
