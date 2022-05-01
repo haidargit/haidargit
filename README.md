@@ -16,6 +16,13 @@
                                                                                                
 
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
+  
+────────▄█▀▄  
+──────▄██▀▀▀▀▄  
+────▄███▀▀▀▀▀▀▀▄  
+──▄████▀▀▀▀▀▀▀▀▀▀▄  
+▄█████▀▀▀▀▀▀▀▀▀▀▀▀▀▄  
+
 ### Hi there, Name's Haidar!!
 
 - 👯 I’d be happy to join and collaborate with greater community!
@@ -40,4 +47,11 @@
 [linkedin]: https://linkedin.com/in/haidar1
 [aws]: https://aws.amazon.com/
 [C#]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[Java]: https://www.learnjavaonline.org/
+[Java]: https://www.learnjavaonline.org/  
+
+
+─▄▀─▄▀
+──▀──▀
+█▀▀▀▀▀█▄
+█░░░░░█─█
+▀▄▄▄▄▄▀▀
