@@ -5,7 +5,7 @@
 ### Hi there, Name's Haidar!!
 
 - 👯 I’d be happy to join and collaborate with greater community!
-- 👏🏼 2022,2023,2024,2025,.... Goals: Contribute More to High Quality Open Source Projects!!
+- 👏🏼 2022, 2023, 2024, 2025, 2999,.. Lifetime Goals: Contribute More to High Quality Open Source Projects!!
 
 ### Connect with me:
 
