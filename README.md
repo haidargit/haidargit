@@ -17,8 +17,9 @@
 
 ### Stack That I Currently Use on my Project/Repos:
 [<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws]
+[<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />Java <br/><br/>][C#]
 [<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />Java <br/><br/>][Java]
-[<img align="left" alt="Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> Python <br/><br/>][python]
+
 
 <br />
 
@@ -26,4 +27,5 @@
 
 [linkedin]: https://linkedin.com/in/haidar1
 [aws]: https://aws.amazon.com/
+[C#]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 [Java]: https://www.learnjavaonline.org/
