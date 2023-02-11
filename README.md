@@ -33,7 +33,7 @@
 
 <br /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />  
+[//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />)  
 
          _________  
         / ======= \  
