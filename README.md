@@ -27,9 +27,6 @@
 - 👯 I’d be happy to join and collaborate with greater community!
 - 👏🏼 2022, 2023, 2024, 2025, 20..... Lifetime Goals: Contribute More to High Quality Open Source Projects
 
-### Connect with me:
-
-[![Linkedin: haidar1](https://img.shields.io/badge/-haidar1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haidar1/)](https://www.linkedin.com/in/haidar1/)
 
 <br /> 
 
