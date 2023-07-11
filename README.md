@@ -44,17 +44,17 @@
      / ::::::::::::: \           =D-'  
     (_________________)  
 
-### Stack That I Currently Use on my Project/Repos:  
+### Stack:  
 
 <!---[<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws] --->
 
-[<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />C# <br/><br/>][C#]
-[<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />Java <br/><br/>][Java]
-<br />  
+[<img align="left" alt="Terraform" width="36px" src="https://avatars.githubusercontent.com/u/761456?s=48&v=4" />Terraform <br/><br/>][Terraform]
+[<img align="left" alt="Bash" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />Bash <br/><br/>][Bash]
+<br />
 
 ---
 
 <!---[linkedin]: https://linkedin.com/in/haidar1 --->
 [aws]: https://aws.amazon.com/
-[C#]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[Java]: https://www.learnjavaonline.org/  
+[Terraform]: https://github.com/hashicorp/terraform
+[Bash]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
