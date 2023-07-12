@@ -32,18 +32,6 @@
 
 [//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />)  
 
-         _________  
-        / ======= \  
-       / __________\  
-      | ___________ |  
-      | | -       | |  
-      | |         | |  
-      | |_________| |_________________  
-      \=____________/                 )  
-      / """"""""""" \                /  
-     / ::::::::::::: \           =D-'  
-    (_________________)  
-
 ### Stack:  
 
 <!---[<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws] --->
