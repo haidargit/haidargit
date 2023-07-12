@@ -4,17 +4,9 @@
     | |_| | __ _ _  __| | __ _ _ __              
     |  _  |/ _` | |/ _` |/ _` | '__|             
     | | | | (_| | | (_| | (_| | |                
-    \_| |_/\__,_|_|\__,_|\__,_|_|                
-                                                                                      
-      ___            _   _          _   _      
-     / _ \          | | | |        | | (_)       
-    / /_\ \ ___  ___| |_| |__   ___| |_ _  ___   
-    |  _  |/ _ \/ __| __| '_ \ / _ \ __| |/ __|  
-    | | | |  __/\__ \ |_| | | |  __/ |_| | (__   
-    \_| |_/\___||___/\__|_| |_|\___|\__|_|\___|  
-                                            
+    \_| |_/\__,_|_|\__,_|\__,_|_|           
      -----------------------------------  
-    |       November 6th, 2017          |  
+    |     Established on June 6, 2017   |  
     |      Here Men called Haidar       |  
     |   First set Foot upon the Github  |  
      ---------------------------=git=---    
@@ -31,7 +23,6 @@
 <br /> 
 
 [//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />)  
-
 ### Stack:  
 
 <!---[<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws] --->
