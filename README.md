@@ -6,9 +6,7 @@
     | | | | (_| | | (_| | (_| | |                
     \_| |_/\__,_|_|\__,_|\__,_|_|           
      -----------------------------------  
-    |     Established on June 6, 2017   |  
-    |      Here Men called Haidar       |  
-    |   First set Foot upon the Github  |  
+    |    Established on June 6, 2017    |  
      ---------------------------=git=---    
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
   
