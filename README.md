@@ -14,7 +14,7 @@
 
 ### Hi there, Name's Haidar
 
-🌐 I’d be happy to join and collaborate with greater community!
+🌐 I’d be happy to join and collaborate with greater community! <br/>
 🗓️ Lifetime Goals: Contribute More to High-Quality Open Source Projects
 
 
