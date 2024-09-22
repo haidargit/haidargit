@@ -1,8 +1,8 @@
 
 
-     -----------------------------------  
-    |    Established on June 6, 2017    |  
-     ---------------------------=git=---    
+     -----------------------------------------------------------------------  
+    |    Started my GitHub journey on June 6, 2017. It’s been a ride!    |  
+     -----------------------------------------------------------------------    
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
   
 
