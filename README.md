@@ -1,8 +1,8 @@
 
 
-     -----------------------------------------------------------------------  
-    |    Started my GitHub journey on June 6, 2017. It’s been a ride!       |  
-     -----------------------------------------------------------------------    
+     ------------------------------------------------  
+    |    write code that humans can understand       |  
+     ------------------------------------------------    
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
   
 
