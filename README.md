@@ -1,8 +1,8 @@
 
 
-     ------------------------------------------------  
-    |    write code that humans can understand       |  
-     ------------------------------------------------    
+     --------------------------------------------------  
+    |    writing code that humans can understand       |  
+     --------------------------------------------------    
 ## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
   
 
