@@ -6,7 +6,7 @@
 
 
 
-### Hi there, Name's Haidar
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
 
 🌐 I’d be happy to join and collaborate with greater community! <br/>
 🗓️ Goals: Contribute More to High-Quality Open Source Projects
@@ -15,7 +15,7 @@
 <br /> 
 
 [//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />)  
-### Stack:  
+### <img src="https://em-content.zobj.net/source/telegram/386/technologist_1f9d1-200d-1f4bb.webp" alt="Technologist" width="45" height="45" /> Stack:  
 
 <!---[<img align="left" alt="Aws" width="36px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />Amazon Web Services (AWS) Cloud <br/><br/>][aws] --->
 
