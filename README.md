@@ -1,16 +1,15 @@
 
 
-     --------------------------------------------------  
-    |    writing code that humans can understand       |  
-     --------------------------------------------------    
-## ![](https://komarev.com/ghpvc/?username=haidargit&color=blue&label=Profile+View)
-  
+     --------------------------------------------------------------------  
+    |    gr       |  
+     --------------------------------------------------------------------    
+
 
 
 ### Hi there, Name's Haidar
 
 🌐 I’d be happy to join and collaborate with greater community! <br/>
-🗓️ Lifetime Goals: Contribute More to High-Quality Open Source Projects
+🗓️ Goals: Contribute More to High-Quality Open Source Projects
 
 
 <br /> 
