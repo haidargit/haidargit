@@ -1,6 +1,4 @@
-<picture>
-  <img align='right' src='https://i.pinimg.com/originals/3c/15/51/3c1551845efe25bbed46379570214ee1.gif' width='250'>
-</picture>
+<img align='right' src='https://i.pinimg.com/originals/3c/15/51/3c1551845efe25bbed46379570214ee1.gif' width='250'>
 
      -------------------------------------
     |    writing code that both humans    |
