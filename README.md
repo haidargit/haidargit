@@ -7,7 +7,7 @@
 
 
 
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
+###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
 
 🌐 I’d be happy to join and collaborate with greater community! <br/>
 🗓️ Goals: Contribute More to High-Quality Open Source Projects
