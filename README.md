@@ -1,5 +1,3 @@
-<img align='right' src='https://i.pinimg.com/originals/3c/15/51/3c1551845efe25bbed46379570214ee1.gif' width='250'>
-
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
 
 🌐 I’d be happy to join and collaborate with greater community! <br/>
