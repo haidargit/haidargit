@@ -1,7 +1,7 @@
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
 
-🌐 I’d be happy to join and collaborate with greater community <br/>
-🗓️ Goals: Contribute More to High-Quality Open Source Projects
+🌐 I’d be happy to join and collaborate with the broader community <br/>
+🗓️ Let's contribute more to open source projects
 
 <br /> 
 
