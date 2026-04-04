@@ -17,45 +17,15 @@
 ### 🚀 Latest Merged PRs
 
 
-
-
-
-
 - [**feat: Add support for Windows 2025 AMIs**](https://github.com/terraform-aws-modules/terraform-aws-eks/pull/3669) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-
-
-
-
 
 - [**resource/aws_glue_catalog_table: Detect and report failed view creation**](https://github.com/hashicorp/terraform-provider-aws/pull/47101) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 
-
-
-
-
 - [**fix: parse the latest deno release in installation script outputs as a tagged version**](https://github.com/slackapi/slack-cli/pull/91) in [slackapi/slack-cli](https://github.com/slackapi/slack-cli)
-
-
-
-
-
-
 
 - [**feat(aws_instance): treat missing data on cloudwatchmetric**](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/184) in [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance)
 
-
-
-
-
 - [**feat(aws_instance): conditional IAM instance profile**](https://github.com/cloudposse/terraform-aws-ec2-instance/pull/182) in [cloudposse/terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance)
-
-
-
-
-
-- [**feat(aws-docdb-cluster): enable the ssm parameter store to record the…**](https://github.com/cloudposse/terraform-aws-documentdb-cluster/pull/77) in [cloudposse/terraform-aws-documentdb-cluster](https://github.com/cloudposse/terraform-aws-documentdb-cluster)
-
-
 
 
 ---
