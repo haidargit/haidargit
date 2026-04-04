@@ -23,7 +23,9 @@
 
 {{range recentPullRequests 10}}
 {{if eq .State "MERGED"}}
+{{if ne .Repo.Name "haidargit"}}
 - [**{{.Title}}**]({{.URL}}) in [{{.Repo.Name}}]({{.Repo.URL}})
+{{end}}
 {{end}}
 {{end}}
 
