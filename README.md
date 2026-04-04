@@ -63,12 +63,6 @@
 
 
 
-
-- [**adding a feature to customize the egress rule**](https://github.com/cloudposse/terraform-aws-documentdb-cluster/pull/54) in [cloudposse/terraform-aws-documentdb-cluster](https://github.com/cloudposse/terraform-aws-documentdb-cluster)
-
-
-
-
 ---
 
 
