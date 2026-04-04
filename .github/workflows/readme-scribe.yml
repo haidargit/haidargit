@@ -18,13 +18,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate README
-        uses: muesli/readme-scribe@master
+      - name: Fetch PRs and update README
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        with:
-          template: ".github/templates/README.md.tpl"
-          writeTo: "README.md"
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          export PR_LIST=$(gh search prs --author haidargit --limit 10 --json title,url,repository "is:merged -repo:haidargit/haidargit" | jq -r '.[] | "- [**\(.title)**](\(.url)) in [\(.repository.name)](https://github.com/\(.repository.nameWithOwner))"')
+          
+          python3 << 'EOF'
+          import os
+          with open('README.md', 'r') as f:
+              text = f.read()
+          start_marker = '<!-- PR_LIST_START -->\n'
+          end_marker = '<!-- PR_LIST_END -->'
+          start_idx = text.find(start_marker)
+          end_idx = text.find(end_marker)
+          if start_idx != -1 and end_idx != -1:
+              updated_text = text[:start_idx + len(start_marker)] + os.environ.get('PR_LIST', '') + '\n' + text[end_idx:]
+              with open('README.md', 'w') as f:
+                  f.write(updated_text)
+          EOF
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
