@@ -26,6 +26,12 @@
 
 
 
+- [**feat: Add support for Windows 2025 AMIs**](https://github.com/terraform-aws-modules/terraform-aws-eks/pull/3669) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+
+
+
+
+
 - [**resource/aws_glue_catalog_table: Detect and report failed view creation**](https://github.com/hashicorp/terraform-provider-aws/pull/47101) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 
 
@@ -53,12 +59,6 @@
 
 
 - [**feat(aws-docdb-cluster): enable the ssm parameter store to record the…**](https://github.com/cloudposse/terraform-aws-documentdb-cluster/pull/77) in [cloudposse/terraform-aws-documentdb-cluster](https://github.com/cloudposse/terraform-aws-documentdb-cluster)
-
-
-
-
-
-- [**feat(aws-key-pair): enable the ssm parameter store to record the key-pair distribution**](https://github.com/cloudposse/terraform-aws-key-pair/pull/77) in [cloudposse/terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair)
 
 
 
