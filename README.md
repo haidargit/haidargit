@@ -12,15 +12,10 @@
 [<img align="left" alt="Python" width="36px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />Python <br/><br/>][Python]
 <br />
 
----
-
-### 🚀 Latest Merged PRs
 <!-- PR_LIST_START -->
 
 
 <!-- PR_LIST_END -->
-
----
 
 [Terraform]: https://github.com/hashicorp/terraform
 [Bash]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
