@@ -12,7 +12,8 @@ permissions:
   contents: write
 
 jobs:
-  markscribe:
+  list-prs:
+    if: ${{ vars.ENABLE_README_WORKFLOW == 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -22,20 +23,25 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          export PR_LIST=$(gh search prs --author haidargit --limit 10 --json title,url,repository "is:merged -repo:haidargit/haidargit" | jq -r '.[] | "- [**\(.title)**](\(.url)) in [\(.repository.name)](https://github.com/\(.repository.nameWithOwner))"')
-          
+          PR_LIST=$(gh search prs --author haidargit --limit 10 --json title,url,repository "is:merged -repo:haidargit/haidargit" | jq -r '.[] | "- [**\(.title)**](\(.url)) in [\(.repository.name)](https://github.com/\(.repository.nameWithOwner))"')
+          export PR_LIST
+
           python3 << 'EOF'
-          import os
+          import os, sys
           with open('README.md', 'r') as f:
               text = f.read()
-          start_marker = '<!-- PR_LIST_START -->\n'
+          start_marker = '<!-- PR_LIST_START -->'
           end_marker = '<!-- PR_LIST_END -->'
           start_idx = text.find(start_marker)
           end_idx = text.find(end_marker)
           if start_idx != -1 and end_idx != -1:
-              updated_text = text[:start_idx + len(start_marker)] + os.environ.get('PR_LIST', '') + '\n' + text[end_idx:]
+              insert_idx = start_idx + len(start_marker)
+              updated_text = text[:insert_idx] + '\n\n' + os.environ.get('PR_LIST', '') + '\n' + text[end_idx:]
               with open('README.md', 'w') as f:
                   f.write(updated_text)
+          else:
+              print("ERROR: PR_LIST markers not found in README.md!")
+              sys.exit(1)
           EOF
 
       - name: Commit changes
