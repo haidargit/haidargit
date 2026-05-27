@@ -1,7 +1,5 @@
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="45" height="45" /> Hi there, name's Haidar
 
-🌐 excited to join the community and contribute more to open source.
-
 <br /> 
 
 [//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidargit&theme=light&hide_langs_below=1" />)  
